@@ -1,0 +1,44 @@
+
+body{
+  background-image: linear-gradient(rgba(9,0,77,0.65),rgba(9,0,77,0.65)),url(images/back.webp);
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btn2 button{
+  color: #FFF;
+  width: 250px;
+  background-color: black;
+  height: 50px;
+  padding: 10px;
+  margin-right: 30px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 20px;
+  border: none;
+}
+
+.btn1 button{
+  width: 250px;
+  color: #FFF;
+  background-color: black;
+  height: 50px;
+  padding: 10px;
+  margin-right: 30px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-size: 20px;
+  border: none;
+}
+
+.btn2 button:hover{
+  background-color: rgba(128, 128, 128, 0.295);
+}
+
+.btn1 button:hover{
+  background-color: rgba(128, 128, 128, 0.295);
+}

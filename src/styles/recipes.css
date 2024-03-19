@@ -1,0 +1,26 @@
+
+
+.form-control{
+    margin-top: 30px;
+    width: 370px;
+    height: 25px;
+    font-size: 19px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-outline-secondary{
+    margin-left: 20px;
+    height: 45px;
+    font-size: 19px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(115, 129, 206);
+    color: #FFf;
+}
+.btn-outline-secondary:hover{
+    background-color: rgb(12, 33, 151);
+}
+

@@ -1,0 +1,48 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 90px;
+    background-color: rgb(165, 185, 184);
+    width: 240px;
+    height: 350px;
+    border-radius: 20px;
+  }
+  
+  .recipe-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .title-cook {
+    color: black;
+    text-align: center; 
+  }
+  
+  .recipe-image {
+    width: 70%;
+    height: auto; 
+    border-radius: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .list-ingredients {
+    color: black;
+    text-align: center; 
+  }
+  
+  .list-ingredients {
+    text-decoration: none;
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+    font-size: 10px;
+  }
+  
+  .list-of-ingredients {
+    padding: 5px;
+    font-size: 15px;
+  }
